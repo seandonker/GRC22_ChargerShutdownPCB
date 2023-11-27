@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\GryphonRacingDrive\University of Guelph\Gryphon SAE Racing Team - GRC22\CAD\EV\PCB's\ChargerSafetyPCB\GRC22_ShutdownChargerBoardV1.kicad_sch</source>
+    <date>2023-11-17 5:54:27 PM</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>GRC22_ShutdownChargerBoardV1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e9595be-db1c-4b32-a5e1-8f6dede77003</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3119af8d-c09f-4aa3-ab9d-b3b66829aed8</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>.47nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d1def13-1a03-4198-b0a8-8a7431063154</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>.47nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03e6581f-75e7-4b16-bf10-64f0b0913cd4</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6662ac3b-4c40-4c57-a1f4-b5828b3b47d5</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d86eba44-82da-4af7-8707-d0ab3d355b04</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2555bd35-d0a1-4904-8af2-15e6224310d4</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Footprints:SOD57-10</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a759d493-31e3-42f4-8c21-4ea99b276c02</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Footprints:SOD57-10</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93e7183e-e021-4490-ac91-b3512cb05106</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Footprints:SOD57-10</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a35f7b92-34d5-4d5d-8ec9-4c7fea31e9ed</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>Fuse</value>
+      <footprint>Footprints:FUSE_3557-2</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd7fe4b3-8a97-4412-ac2f-9790cd47a366</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>M4_Hole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>939bc194-e048-45e7-b226-3c13a69580da</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>M4_Hole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>463bb0f8-6b26-4236-a2e0-d9af958abc4d</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>M4_Hole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a134b0f5-cb2b-4119-816f-0c88fd3247b7</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>M4_Hole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceb947c7-d841-4c3f-909e-fbc687c8c23d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Signal_In</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-0812_2x04_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e66d59d5-e4bb-45ba-bfa9-012296cc0b51</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Charger Pwr</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef501c72-cf6c-40d0-89c3-40f983161e4f</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Relay</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5207f20e-9ebe-4c61-a8f0-5ffa97661db8</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Minitactor</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a4af564-c6a7-4e84-93a6-d0648878eceb</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Interlock</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80866fa9-b50a-4a35-97f1-e89b13506174</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>E-Stop</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a8c171c-eeb6-4809-a340-f85e111eb217</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>CAN In</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>957d2853-b613-46c3-bac5-23a4e4defafb</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>CAN Out</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b3d88f2-78d9-478c-85e6-5625ed32f78a</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Brd Pwr LED</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>782bd19c-d8b1-4d66-82ef-38e9bb872c86</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Charger Active LED</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eae7c9fc-cdfe-460c-a534-4fd976042504</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Fault LED</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34b6801e-2b24-4e8b-8142-534c1e49b675</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>ALQ112</value>
+      <footprint>Footprints:RELAY_ALQ112</footprint>
+      <fields>
+        <field name="MANUFACTURER">PANASONIC</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ALQ112" part="ALQ112" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="PANASONIC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecad08e0-da66-4e33-b9d0-1b95daa72747</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>ALQ112</value>
+      <footprint>Footprints:RELAY_ALQ112</footprint>
+      <fields>
+        <field name="MANUFACTURER">PANASONIC</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ALQ112" part="ALQ112" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="PANASONIC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dc117db-6b08-4573-bdaf-564ebead7559</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>PMOS</value>
+      <footprint>Footprints:RSC002</footprint>
+      <datasheet>https://ngspice.sourceforge.io/docs/ngspice-manual.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">PMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="PMOS" description="P-MOSFET transistor, drain/source/gate"/>
+      <property name="Sim.Device" value="PMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="P-MOSFET transistor, drain/source/gate"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET simulation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce2fef3e-b188-4640-8634-ec012a68926e</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>PMOS</value>
+      <footprint>Footprints:RSC002</footprint>
+      <datasheet>https://ngspice.sourceforge.io/docs/ngspice-manual.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">PMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="PMOS" description="P-MOSFET transistor, drain/source/gate"/>
+      <property name="Sim.Device" value="PMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="P-MOSFET transistor, drain/source/gate"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET simulation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2b7a75a-d292-427f-a707-03eb24c08a63</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57e6a4e8-0d9c-4326-bfbe-7f869e7d7f5f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ee18c26-3e8e-4020-860c-49b72ba104a9</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c134ec5-4d73-4a32-a0a4-aed66e758708</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f681a50e-92f0-43aa-9afa-4daa1fa85f89</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f471c72-5e11-42ad-bada-fa4ef4389385</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85663b2d-ca71-468e-afe6-8846b8fd80a0</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8702a4c4-6c24-4406-8575-e1df297f635f</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>292e6f86-2255-4f5e-ba1e-5b4295556ece</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3db68279-6103-4089-8cdf-cf05219df807</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cbde360-7b27-46e7-b329-4a5b06003f7c</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db43d7f2-c8b6-4e1f-bdb0-80ee10605ffe</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>835bbb58-4d3e-4bef-8650-05f64036d742</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1faf9507-d09c-43f9-9d3f-20aea340b087</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52fc3a26-28d9-41fc-8032-e38bf0b51142</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28b3b4aa-238f-4866-8a52-7de93757d137</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4c82af4-6c71-464f-b057-f852ac1a0102</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>2.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a737b2f4-0890-4879-9f9c-6d4a55ac72e7</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>2.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4074bd82-ebe1-4334-bbbd-8701d512dba7</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>IMD</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43041d1b-997b-4da4-9373-7549de5cd927</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>AMS</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9c72078-7cde-4671-8803-ef160cacabd9</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>IMD Lat</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e36a6aa-f18d-45d8-87c7-3ed17ccdddf2</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>AMS Lat</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ea7a901-ed91-4ad5-9302-12105c020517</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>Chrg Sink</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ed744d9-147d-49fd-a7e1-51bc729a41da</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>~</value>
+      <footprint>Footprints:SOIC127P600X175-16N</footprint>
+      <libsource lib="MC14049B" part="MC14049B" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cb41f72-c3fb-4800-a575-4e9c76022304</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MC14043BDG</value>
+      <footprint>Footprints:SOIC127P600X175-16N</footprint>
+      <libsource lib="MC14043BDG" part="MC14043BDG" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cb0b2e5-34c4-4d18-b9bd-eaa4287bb7ba</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>MC14081BDG</value>
+      <footprint>Footprints:SOIC127P600X175-14N</footprint>
+      <libsource lib="MC14081BDG" part="MC14081BDG" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e46ad3d6-2994-46f2-a0c0-b3a2e6882d98</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MC14043BDG</value>
+      <footprint>Footprints:SOIC127P600X175-16N</footprint>
+      <libsource lib="MC14043BDG" part="MC14043BDG" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GRC22_ShutdownChargerBoardV1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95ee8e37-67ac-406f-9f10-fbabbc714423</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ALQ112" part="ALQ112">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">ALQ112</field>
+        <field name="Footprint">RELAY_ALQ112</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MANUFACTURER">PANASONIC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MC14043BDG" part="MC14043BDG">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MC14043BDG</field>
+        <field name="Footprint">SOIC127P600X175-16N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Q3" type="output"/>
+        <pin num="2" name="Q0" type="output"/>
+        <pin num="3" name="R0" type="input"/>
+        <pin num="4" name="S0" type="input"/>
+        <pin num="5" name="E" type="input"/>
+        <pin num="6" name="S1" type="input"/>
+        <pin num="7" name="R1" type="input"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="Q1" type="output"/>
+        <pin num="10" name="Q2" type="output"/>
+        <pin num="11" name="R2" type="input"/>
+        <pin num="12" name="S2" type="input"/>
+        <pin num="13" name="NC" type="bidirectional"/>
+        <pin num="14" name="S3" type="input"/>
+        <pin num="15" name="R3" type="input"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MC14049B" part="MC14049B">
+      <fields>
+        <field name="Reference">U3</field>
+        <field name="Value">~</field>
+        <field name="Footprint">Footprints:SOIC127P600X175-16N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="input"/>
+        <pin num="2" name="OUT_a" type="output"/>
+        <pin num="3" name="IN_a" type="input"/>
+        <pin num="4" name="OUT_b" type="output"/>
+        <pin num="5" name="IN_b" type="input"/>
+        <pin num="6" name="OUT_c" type="output"/>
+        <pin num="7" name="IN_c" type="input"/>
+        <pin num="8" name="VSS" type="input"/>
+        <pin num="9" name="IN_d" type="input"/>
+        <pin num="10" name="OUT_d" type="output"/>
+        <pin num="11" name="IN_e" type="input"/>
+        <pin num="12" name="OUT_e" type="output"/>
+        <pin num="13" name="NC" type="no_connect"/>
+        <pin num="14" name="IN_f" type="input"/>
+        <pin num="15" name="OUT_f" type="output"/>
+        <pin num="16" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="MC14081BDG" part="MC14081BDG">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MC14081BDG</field>
+        <field name="Footprint">SOIC127P600X175-14N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN_1A" type="input"/>
+        <pin num="2" name="IN_2A" type="input"/>
+        <pin num="3" name="OUTA" type="output"/>
+        <pin num="4" name="OUTB" type="output"/>
+        <pin num="5" name="IN_1B" type="input"/>
+        <pin num="6" name="IN_2B" type="input"/>
+        <pin num="7" name="VSS" type="power_in"/>
+        <pin num="8" name="IN_1C" type="input"/>
+        <pin num="9" name="IN_2C" type="input"/>
+        <pin num="10" name="OUTC" type="output"/>
+        <pin num="11" name="OUTD" type="output"/>
+        <pin num="12" name="IN_1D" type="input"/>
+        <pin num="13" name="IN_2D" type="input"/>
+        <pin num="14" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simulation_SPICE" part="PMOS">
+      <description>P-MOSFET transistor, drain/source/gate</description>
+      <docs>https://ngspice.sourceforge.io/docs/ngspice-manual.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PMOS</field>
+        <field name="Datasheet">https://ngspice.sourceforge.io/docs/ngspice-manual.pdf</field>
+        <field name="Sim.Device">PMOS</field>
+        <field name="Sim.Type">VDMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ALQ112">
+      <uri>C:/GryphonRacingDrive/University of Guelph/Gryphon SAE Racing Team - GRC22/CAD/EV/PCB's/ChargerSafetyPCB/CAD/Symbols/ALQ112.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MC14043BDG">
+      <uri>C:/GryphonRacingDrive/University of Guelph/Gryphon SAE Racing Team - GRC22/CAD/EV/PCB's/ChargerSafetyPCB/CAD/Symbols/MC14043BDG.kicad_sym</uri>
+    </library>
+    <library logical="MC14049B">
+      <uri>C:/GryphonRacingDrive/University of Guelph/Gryphon SAE Racing Team - GRC22/CAD/EV/PCB's/ChargerSafetyPCB/CAD/Symbols/MC14049B.kicad_sym</uri>
+    </library>
+    <library logical="MC14081BDG">
+      <uri>C:/GryphonRacingDrive/University of Guelph/Gryphon SAE Racing Team - GRC22/CAD/EV/PCB's/ChargerSafetyPCB/CAD/Symbols/MC14081BDG.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Simulation_SPICE">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Simulation_SPICE.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K2" pin="5" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VDD" pintype="input"/>
+      <node ref="U2" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="E" pintype="input"/>
+      <node ref="U3" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="E" pintype="input"/>
+    </net>
+    <net code="2" name="AMS GND">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K2" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="IN_e" pintype="input"/>
+      <node ref="U1" pin="14" pinfunction="IN_f" pintype="input"/>
+      <node ref="U1" pin="7" pinfunction="IN_c" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="VSS" pintype="input"/>
+      <node ref="U1" pin="9" pinfunction="IN_d" pintype="input"/>
+      <node ref="U2" pin="12" pinfunction="S2" pintype="input"/>
+      <node ref="U2" pin="14" pinfunction="S3" pintype="input"/>
+      <node ref="U2" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="12" pinfunction="IN_1D" pintype="input"/>
+      <node ref="U3" pin="13" pinfunction="IN_2D" pintype="input"/>
+      <node ref="U3" pin="7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="IN_1C" pintype="input"/>
+      <node ref="U3" pin="9" pinfunction="IN_2C" pintype="input"/>
+      <node ref="U4" pin="12" pinfunction="S2" pintype="input"/>
+      <node ref="U4" pin="14" pinfunction="S3" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="3" name="AMS Saftey">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="AMS_Latched">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="Q1" pintype="output"/>
+    </net>
+    <net code="5" name="CAN +">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="CAN -">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Charger Pwr">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K2" pin="3" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Chg Saftey">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K1" pin="2" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="9" name="E-Stop Out">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K1" pin="3" pintype="passive"/>
+    </net>
+    <net code="10" name="E-Stop Rtn">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="11" name="GLV +">
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="12" name="IMD Error">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="13" name="IMD_Latched">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="Q0" pintype="output"/>
+    </net>
+    <net code="14" name="Interlock Rtn">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K2" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K2" pin="4" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D5-K)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K1" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(Q1-G)">
+      <node ref="Q1" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(Q2-D)">
+      <node ref="K1" pin="5" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q2-G)">
+      <node ref="Q2" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(U1-IN_a)">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="IN_a" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(U1-IN_b)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="IN_b" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U1-OUT_a)">
+      <node ref="U1" pin="2" pinfunction="OUT_a" pintype="output"/>
+      <node ref="U3" pin="6" pinfunction="IN_2B" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(U1-OUT_b)">
+      <node ref="U1" pin="4" pinfunction="OUT_b" pintype="output"/>
+      <node ref="U3" pin="2" pinfunction="IN_2A" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(U2-Q0)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="Q0" pintype="output"/>
+    </net>
+    <net code="27" name="Net-(U2-Q1)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="Q1" pintype="output"/>
+    </net>
+    <net code="28" name="Net-(U2-R0)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="R2" pintype="input"/>
+      <node ref="U2" pin="15" pinfunction="R3" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="R0" pintype="input"/>
+      <node ref="U2" pin="7" pinfunction="R1" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(U2-S0)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="S0" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(U2-S1)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="S1" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(U3-IN_1A)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="IN_1A" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(U3-IN_1B)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="IN_1B" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(U3-OUTA)">
+      <node ref="U3" pin="3" pinfunction="OUTA" pintype="output"/>
+      <node ref="U4" pin="4" pinfunction="S0" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(U3-OUTB)">
+      <node ref="U3" pin="4" pinfunction="OUTB" pintype="output"/>
+      <node ref="U4" pin="6" pinfunction="S1" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(U4-R0)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="R2" pintype="input"/>
+      <node ref="U4" pin="15" pinfunction="R3" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="R0" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="R1" pintype="input"/>
+    </net>
+    <net code="36" name="unconnected-(J1-Pin_8-Pad8)">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(K1-Pad4)">
+      <node ref="K1" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U1-NC-Pad13)">
+      <node ref="U1" pin="13" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U1-NC-Pad16)">
+      <node ref="U1" pin="16" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U1-OUT_c-Pad6)">
+      <node ref="U1" pin="6" pinfunction="OUT_c" pintype="output+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U1-OUT_d-Pad10)">
+      <node ref="U1" pin="10" pinfunction="OUT_d" pintype="output+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U1-OUT_e-Pad12)">
+      <node ref="U1" pin="12" pinfunction="OUT_e" pintype="output+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U1-OUT_f-Pad15)">
+      <node ref="U1" pin="15" pinfunction="OUT_f" pintype="output+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U2-NC-Pad13)">
+      <node ref="U2" pin="13" pinfunction="NC" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U2-Q2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="Q2" pintype="output+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U2-Q3-Pad1)">
+      <node ref="U2" pin="1" pinfunction="Q3" pintype="output+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U3-OUTC-Pad10)">
+      <node ref="U3" pin="10" pinfunction="OUTC" pintype="output+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U3-OUTD-Pad11)">
+      <node ref="U3" pin="11" pinfunction="OUTD" pintype="output+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U4-NC-Pad13)">
+      <node ref="U4" pin="13" pinfunction="NC" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U4-Q2-Pad10)">
+      <node ref="U4" pin="10" pinfunction="Q2" pintype="output+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U4-Q3-Pad1)">
+      <node ref="U4" pin="1" pinfunction="Q3" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
